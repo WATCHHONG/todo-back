@@ -8,6 +8,6 @@ spring:
   # DataSource
   datasource:
     driver-class-name: com.mysql.cj.jdbc.Driver
-    url: jdbc:mysql://todo-front.eba-8s3gahpc.ap-northeast-2.elasticbeanstalk.com:3306/todos?useUnicode=yes&characterEncoding=UTF-8&serverTimezone=Asia/Seoul
+    url: jdbc:mysql://192.168.100.27:3306/todos?useUnicode=yes&characterEncoding=UTF-8&serverTimezone=Asia/Seoul
     username: todoAdmin
     password: todoAdmin
